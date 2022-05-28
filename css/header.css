@@ -1,0 +1,27 @@
+.header {
+    background-color: #000000;
+    width: 100%;
+    padding: 20px 0;
+}
+.logo a {
+   font-size: 30px;
+   font-weight: 400;
+   color: #fff;
+   text-transform: uppercase;
+}
+.navigation {
+}
+.navigation-list {
+    width: 489px;
+    display: flex;
+    justify-content: space-between;
+}
+.navigation-list-item {
+   /* margin-left: 48px; */
+}
+.navigation-list-item a {
+    font-family: "Open Sans";
+    color: rgba(255, 255, 255, 0.7);
+    font-size: 15px;
+    font-weight: 600;
+}
